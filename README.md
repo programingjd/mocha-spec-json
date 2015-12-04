@@ -1,18 +1,10 @@
-mocha-hierarchical-json-reporter
+mocha-spec-json
 ================================
 
-A mocha hierarchical json reporter
-
-Installation
----------------
-```
-npm install mocha-hierarchical-json-reporter
-```
+A mocha reporter that outputs spec info in json
 
 Usage
 ---------------
 ```
-mocha -R mocha-hierarchical-json-reporter
+mocha --reporter spec-json
 ```
-
-You will then get a mocha-spec.json containing hierarchical reporter output in a JSON format in current directory.
