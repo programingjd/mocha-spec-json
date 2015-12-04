@@ -6,5 +6,5 @@ A mocha reporter that outputs spec info in json
 Usage
 ---------------
 ```
-mocha --reporter spec-json
+mocha --reporter mocha-spec-json
 ```
