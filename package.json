@@ -1,20 +1,16 @@
 {
-  "name": "mocha-hierarchical-json-reporter",
-  "version": "0.0.1",
-  "description": "A mocha hierarchical json reporter",
+  "name": "mocha-spec-json",
+  "version": "1.0.0",
+  "description": "A mocha reporter that outputs spec info in json",
   "keywords": [
     "mocha",
     "reporter",
-    "hierarchical",
+    "spec",
     "json"
   ],
-  "author": {
-    "name": "Ricky Jiao",
-    "email": "jiaozhi_tian@sina.com"
-  },
   "repository": {
     "type": "url",
-    "url": "https://github.com/RickyJiao/mocha-hierarchical-json-reporter"
+    "url": "https://github.com/programingjd/mocha-spec-json"
   },
   "main": "lib/spec-json.js",
   "engines": {
